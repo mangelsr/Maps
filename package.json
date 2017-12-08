@@ -17,5 +17,13 @@
   "bugs": {
     "url": "http://h4ckademy.com"
   },
-  "homepage": "http://h4ckademy.com"
+  "homepage": "http://h4ckademy.com",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~6.3.0"
+  }
 }
